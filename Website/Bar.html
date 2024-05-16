@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="BarChart"/>
+    <meta name="keywords" content="HTML, CSS"/>
+    <meta name="author" content="Joel Downie"/>
+
+    <title>BarChart</title>
+    <!--webpage for Website-->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        #tooltip.hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>BarChart For Website</h1>
+    <br/>
+    <button id="change-year-btn">Change Year</button><button id="change-year-btn2">Change Year2</button>
+    <div class="slidecontainer">
+        <input type="range" min="2012" max="2021" value="2012" class="slider" id="myRange">
+    </div>
+    <h2 id="year">2012</h2>
+    <div id="tooltip" class="hidden">
+        <p><strong>Important Label Heading</strong></p>
+        <p><span id="value">100</span>%</p>
+    </div>
+    <script>
+    /*
+    d3.csv("Test.csv").then(function(data) {
+        console.log(data);
+        barChart(data);
+    });
+    */
+    year = "2012"
+
+
+
+    d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+        var filteredData = data.filter(function(d) {
+            return d.Year === year;
+        });
+        console.log(filteredData);
+        barChart(filteredData);
+    });
+
+    document.getElementById('change-year-btn').addEventListener('click', function() {
+    const yearElement = document.getElementById('year');
+        yearElement.textContent = '2012';
+        year = "2012"
+        barChart(filteredData);
+    });
+    document.getElementById('change-year-btn2').addEventListener('click', function() {
+        const yearElement = document.getElementById('year');
+            yearElement.textContent = '2013';
+            year = "2013"
+            barChart(filteredData);
+    });
+
+
+    function barChart(data) {
+        var w = 600; // creates the borders of this task
+        var h = 350;
+
+        var xScale = d3.scaleBand()
+            .domain(d3.range(data.length))
+            .rangeRound([0, w]) // rounds the numbers
+            .paddingInner(0.05);
+
+        var yScale = d3.scaleLinear()
+            .domain([0, d3.max(data, function(d) { return +d.Found_Value; })])
+            .range([0, h]);
+
+        var svg = d3.select("body")
+            .append("svg") // adds the svg tag to all the lines
+            .attr("width", w)
+            .attr("height", h);
+
+        svg.selectAll("rect")
+            .data(data) // binds the data to the dataset array elements
+            .enter()
+            .append("rect")
+            .attr("x", function(d, i) {
+                return xScale(i); // Set x values for the graph
+            })
+            .attr("y", function(d) {
+                return h - yScale(+d.Found_Value) - 10; // height minus the data values will move the bars to the bottom instead of the top. -10 allows for the countrys to display underneth
+            })
+            .attr("width", xScale.bandwidth())
+            .attr("height", function(d) {
+                return yScale(+d.Found_Value); // just to make them look a bit bigger
+            })
+            .attr("fill", "grey")
+            .on("mouseover", function(event, d) {
+                d3.select(this).attr("fill", "orange");
+                var xPosition = parseFloat(d3.select(this).attr("x")) + xScale.bandwidth() / 2;
+                var yPosition = parseFloat(d3.select(this).attr("y")) + 14;
+
+                /*
+                svg.append("text")
+                    .attr("id", "tooltip")
+                    .attr("x", xPosition)
+                    .attr("y", yPosition)
+                    .attr("text-anchor", "middle")
+                    .attr("font-family", "sans-serif")
+                    .attr("font-size", "11px")
+                    .attr("font-weight", "bold")
+                    .attr("fill", "white")
+                    .text(d.Found_Value);
+             */
+            })
+
+            .on("mouseout", function() {
+                d3.select(this).attr("fill", "grey");
+                d3.select("#tooltip").remove();
+            })
+            .append("title")
+            .text(function(d) {
+                return "This value is " + d.Found_Value;
+            });
+
+
+            svg.selectAll("text")//CHAT GPT HELPED WITH THIS
+            .data(data)
+            .enter()
+            .append("text")
+            .attr("x", function(d, i) {
+                return xScale(i) + xScale.bandwidth() / 2;
+            })
+            .attr("y", function(d) {
+                return h - 2;//-2 allows all data to fit
+            })
+            .attr("text-anchor", "middle")
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "11px")
+            .attr("fill", "Black")
+            .text(function(d) {
+                return d.Country;
+            });
+
+
+    }
+            d3.select("#change-year-btn")//watches to see if button1 is clicked and if so adds data to the visulisation
+            .on("click", function() {
+                year = "2012"
+                d3.select("svg").remove();
+                d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+                var filteredData = data.filter(function(d) {
+                    return d.Year === year;
+                });
+                console.log(filteredData);
+                barChart(filteredData);
+                });
+            });
+
+
+            d3.select("#change-year-btn2")//watches to see if button1 is clicked and if so adds data to the visulisation
+            .on("click", function() {
+                year = "2013"
+                d3.select("svg").remove();
+                d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+                var filteredData = data.filter(function(d) {
+                    return d.Year === year;
+                });
+                console.log(filteredData);
+                barChart(filteredData);
+                });
+            });
+
+            //this code is from chatgpt
+            // Get the slider input element
+            var slider = document.getElementById("myRange");
+
+            // Get the h3 element where you want to display the slider value
+            var output = document.getElementById("year");
+
+            // Update the h2 element with the initial value of the slider
+            output.innerHTML = slider.value;
+
+            // Add an event listener to the slider input element
+            slider.addEventListener("input", function() {
+                // Update the h3 element with the current value of the slider
+
+                output.innerHTML = this.value;
+                year = this.value.toString();
+                d3.select("svg").remove();
+                d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+                var filteredData = data.filter(function(d) {
+                    return d.Year === year;
+                });
+                console.log(filteredData);
+                barChart(filteredData);
+                });
+            });
+    //Chat GPT ALSO HELPED WITH the y scale alot
+    //https://www.w3schools.com/howto/howto_js_rangeslider.asp
+    </script>
+    <footer>Joel Downie barchart task</footer>
+</body>
+</html>
