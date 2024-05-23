@@ -40,7 +40,7 @@
 
 
 
-    d3.csv("/datasets/WeightM.csv").then(function(data) {//Chat gpt also helped here
+    d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
         var filteredData = data.filter(function(d) {
             return d.Year === year;
         });
@@ -95,6 +95,15 @@
                 return yScale(+d.Found_Value); // just to make them look a bit bigger
             })
             .attr("fill", "grey")
+            .attr("fill", function(d) {
+                if (d.Country === "Canada") return "red";
+                else if (d.Country === "New Zealand") return "blue";
+                else if (d.Country === "United Kingdom") return "green";
+                else if (d.Country === "Japan") return "yellow";
+                else if (d.Country === "Korea") return "purple";
+                else return "grey"; // Default color if no match
+        })
+
             .on("mouseover", function(event, d) {
                 d3.select(this).attr("fill", "orange");
                 var xPosition = parseFloat(d3.select(this).attr("x")) + xScale.bandwidth() / 2;
