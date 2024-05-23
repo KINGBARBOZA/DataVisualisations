@@ -1,0 +1,559 @@
+STRUCTURE_NAME,Reference area,Frequency of observation,Measure,Age,Sex,Unit of measure,Measurement method,TIME_PERIOD,OBS_VALUE,Observation status
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,57.1,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,50.6,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,59.4,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,52.1,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,53.3,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,54.8,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,52.4,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,51.5,Normal value
+Food supply and consumption,Korea,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,47,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2012,19.1,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2013,20.7,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2014,19.6,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2015,22.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2016,21,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2017,18,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2018,29,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2019,32,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2020,30,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2012,72.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2013,71.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2014,70.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2015,72.8,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2016,71.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2017,72.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2018,73.4,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2019,71.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2020,73.1,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2021,70.8,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2012,96,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2013,94.9,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2014,95,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2015,94.7,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2016,94.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2017,94.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2018,94.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2019,94,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2020,94,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2021,94.8,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2022,95.1,Definition differs
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2012,55.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2013,57.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2014,60.8,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2015,60.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2016,65,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2017,60.7,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2018,59.8,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2019,57.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2020,54.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2021,55.7,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2012,94.2,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2013,95.2,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2014,93.7,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2015,93.6,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2016,95.2,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2017,97.6,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2018,98.2,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2019,97.9,Normal value
+Food supply and consumption,Korea,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2020,98.1,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2012,86.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2013,86,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2014,84,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2015,84,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2016,84,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2017,83.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2018,85.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2019,82.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2020,82.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2021,81.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2022,82.9,Definition differs
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2012,98.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2013,99.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2014,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2015,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2016,99,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2017,98.8,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2018,98.7,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2019,99.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2020,98.4,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2021,98.8,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,61.1,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,70.4,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,66.8,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,65.7,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,73.1,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,67,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,63.1,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,61.9,Normal value
+Food supply and consumption,New Zealand,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,54.4,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2012,3224,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2013,3227,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2014,3213,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2015,3240,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2016,3241,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2017,3270,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2018,3294,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2019,3477,Normal value
+Food supply and consumption,Netherlands,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2020,3521,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2014,31.3,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2015,29.4,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2016,30.8,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2017,34,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2018,33,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2019,33.2,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2020,31.1,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2021,34.3,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2012,32.9,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2013,34.9,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2014,34.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2015,31.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2016,35,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2017,33,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2018,40,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2019,41,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2020,39,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,194,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,198.2,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,210.9,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,192.2,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,187.1,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,197.2,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,205.2,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,195.2,Normal value
+Food supply and consumption,Korea,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,192.1,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2012,3313,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2013,3330,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2014,3359,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2015,3376,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2016,3381,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2017,3435,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2018,3449,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2019,3457,Normal value
+Food supply and consumption,Korea,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2020,3443,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2012,99.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2013,99.4,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2014,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2015,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2016,99.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2017,99,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2018,98.8,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2019,99,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2020,98.4,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2021,98.7,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,132.9,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,127.4,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,128,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,133.9,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,132.1,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,128.7,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,122.9,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,98.4,Normal value
+Food supply and consumption,Italy,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,94.6,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2012,38.7,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2013,38,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2014,40.6,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2015,42.2,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2016,40,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2017,41,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2018,51,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2019,52,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2020,51,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2012,97.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2013,96.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2014,96.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2015,96.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2016,96.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2017,96.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2018,96.7,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2019,95.9,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2020,96.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2021,96,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2022,96.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2012,90.8,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2013,93.3,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2014,91.7,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2015,91.5,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2016,96,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2017,92.2,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2018,98.3,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2019,97.4,Normal value
+Food supply and consumption,New Zealand,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2020,93.4,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2012,112.1,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2013,111.9,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2014,108.5,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2015,107.6,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2016,107.6,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2017,102.4,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2018,103.9,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2019,107.3,Normal value
+Food supply and consumption,Netherlands,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2020,112.6,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,92.6,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,107.3,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,106.6,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,112.2,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,110.2,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,94,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,100,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,100.7,Normal value
+Food supply and consumption,Netherlands,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,107.6,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2014,35,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2015,33,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2016,34.3,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2017,37.2,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2018,35.9,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2019,36,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2020,34,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2021,37.4,Definition differs
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,39.8,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,39.8,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,40.2,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,40.3,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,40.3,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,40.4,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,41.5,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,48.8,Normal value
+Food supply and consumption,Finland,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,49.6,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,45.4,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,44.5,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,43.8,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,45.5,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,44.6,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,45.7,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,37.6,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,47.4,Normal value
+Food supply and consumption,Netherlands,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,47.3,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2012,141.3,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2013,141.4,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2014,142.1,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2015,140.7,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2016,140.8,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2017,139.6,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2018,140.7,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2019,131.5,Normal value
+Food supply and consumption,Finland,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2020,139.7,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,53.8,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,58.5,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,57.1,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,63.5,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,66.3,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,64.2,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,66.6,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,87.4,Normal value
+Food supply and consumption,Netherlands,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,79.1,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2012,3147,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2013,3204,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2014,3148,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2015,3154,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2016,3150,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2017,3162,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2018,3217,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2019,3196,Normal value
+Food supply and consumption,New Zealand,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2020,3214,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2012,96.8,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2013,95.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2014,95.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2015,95.7,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2016,95.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2017,95.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2018,95.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2019,94.9,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2020,95.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2021,95.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2022,95.8,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2012,49.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2013,50.1,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2014,51.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2015,48.2,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2016,50,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2017,55,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2018,55,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2019,63,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2020,57,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2012,82.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2013,82.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2014,80.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2015,79.7,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2016,80.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2017,79.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2018,81.4,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2019,78.8,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2020,79.5,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2021,78.2,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2022,79.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2012,119.6,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2013,124.6,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2014,114.3,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2015,113.5,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2016,114,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2017,113.9,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2018,118.4,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2019,117,Normal value
+Food supply and consumption,New Zealand,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2020,122.5,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2014,41,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2015,42.8,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2016,43.1,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2017,44.3,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2018,42.7,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2019,43.7,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2020,42.3,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2021,38.6,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2012,116,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2013,116.4,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2014,118,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2015,118.2,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2016,117.6,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2017,118.2,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2018,118.5,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2019,119.5,Normal value
+Food supply and consumption,Finland,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2020,117.9,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2012,109.1,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2013,108.6,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2014,105.9,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2015,104.6,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2016,103.6,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2017,104.6,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2018,105.2,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2019,106.3,Normal value
+Food supply and consumption,Italy,Annual,Protein supply,Total,Total,Grammes per person per day,Not applicable,2020,105.7,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2012,30.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2013,30.6,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2014,31.7,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2015,32.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2016,31,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2017,30,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2018,40,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2019,42,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2020,41,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2014,47.3,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2015,49.6,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2016,49,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2017,52,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2018,49,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2019,49.5,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2020,48.9,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2021,46.1,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,77.4,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,82.9,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,83.9,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,80.5,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,84,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,82.2,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,83.7,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,84.5,Normal value
+Food supply and consumption,Finland,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,83.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2012,60.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2013,59.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2014,60.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2015,61.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2016,61.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2017,61.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2018,60.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2019,58.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2020,60.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2021,59.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2012,65.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2013,64.1,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2014,65.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2015,66,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2016,66.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2017,65.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2018,65.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2019,63.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2020,65.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Female,Percentage of population,Survey,2021,64.1,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2012,3575,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2013,3579,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2014,3487,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2015,3483,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2016,3472,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2017,3477,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2018,3463,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2019,3520,Normal value
+Food supply and consumption,Italy,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2020,3563,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,56.7,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,56.7,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,57.9,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,57.9,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,53.5,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,55.6,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,55.8,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,61.1,Normal value
+Food supply and consumption,New Zealand,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,62.1,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2014,27.6,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2015,25.8,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2016,27.2,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2017,30.9,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2018,30.1,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2019,30.4,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2020,28.1,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2021,31.1,Definition differs
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,128.7,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,138.8,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,119.6,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,125.3,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,121.1,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,121.4,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,121.5,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,117.5,Normal value
+Food supply and consumption,Italy,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,127.9,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2012,157.9,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2013,154.8,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2014,148.7,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2015,146,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2016,146.6,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2017,146.9,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2018,145.4,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2019,149.9,Normal value
+Food supply and consumption,Italy,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2020,153.2,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,31.5,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,32.1,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,32.7,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,32.5,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,32.5,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,32.4,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,33.2,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,33.4,Normal value
+Food supply and consumption,Italy,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,34.6,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2012,103.7,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2013,102.7,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2014,109.6,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2015,112.3,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2016,113.3,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2017,116.8,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2018,119.8,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2019,124.7,Normal value
+Food supply and consumption,Korea,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2020,126.5,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,39.2,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,39.5,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,47.5,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,48.9,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,48.3,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,48.7,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,49.9,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,50.5,Normal value
+Food supply and consumption,Korea,Annual,Sugar supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,48.7,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,126.2,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,115.8,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,124.6,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,125.7,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,122.6,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,117.1,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,132.6,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,110.6,Normal value
+Food supply and consumption,New Zealand,Annual,Vegetables supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,90.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2012,62.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2013,62.8,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2014,65.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2015,66.4,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2016,69.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2017,65.7,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2018,64,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2019,63.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2020,59.7,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2021,59.8,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2012,65.4,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2013,62.8,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2014,68.1,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2015,70.5,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2016,71,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2017,70.4,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2018,71.2,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2019,72.6,Normal value
+Food supply and consumption,Finland,Annual,Fruits supply,Total,Total,Kilogrammes per person per year,Not applicable,2020,71.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2012,78.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2013,77.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2014,77.8,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2015,79.5,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2016,78.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2017,79.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2018,79.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2019,77.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2020,78.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2021,76.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2012,99.5,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2013,99.5,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2014,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2015,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2016,99.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2017,99.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2018,98.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2019,98.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2020,98.3,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2021,98.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2012,75.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2013,75.1,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2014,74.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2015,76.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2016,75.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2017,75.8,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2018,76.4,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2019,74.7,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2020,75.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming fruits daily,15 years or over,Total,Percentage of population,Survey,2021,73.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2012,54.6,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2013,54.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2014,55.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2015,56.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2016,55.9,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2017,56.2,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2018,55.1,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2019,53.3,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2020,55.8,Normal value
+Food supply and consumption,Italy,Annual,Share of population consuming vegetables daily,15 years or over,Male,Percentage of population,Survey,2021,54.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2012,68.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2013,67.6,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2014,70.9,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2015,72.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2016,74.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2017,70.7,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2018,68.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2019,69.2,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2020,65.1,Normal value
+Food supply and consumption,Korea,Annual,Share of population consuming fruits daily,15 years or over,Female,Percentage of population,Survey,2021,63.8,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2012,42.3,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2013,43.5,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2014,44.1,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2015,39.7,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2016,43,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2017,44,Definition differs
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2018,47,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2019,52,Normal value
+Food supply and consumption,Finland,Annual,Share of population consuming vegetables daily,15 years or over,Total,Percentage of population,Survey,2020,48,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2012,124.1,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2013,125.4,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2014,126.7,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2015,128,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2016,130.2,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2017,126.6,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2018,139.4,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2019,134.3,Normal value
+Food supply and consumption,Netherlands,Annual,Fat supply,Total,Total,Grammes per person per day,Not applicable,2020,140.4,Normal value
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2012,77.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2013,78.3,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2014,76.9,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2015,75.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2016,76.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2017,75.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2018,77.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2019,75.1,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2020,76.6,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2021,74.8,Definition differs
+Food supply and consumption,New Zealand,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2022,75.2,Definition differs
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2014,34.5,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2015,35.8,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2016,37.1,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2017,36.4,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2018,36.1,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2019,37.8,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2020,35.6,Normal value
+Food supply and consumption,Netherlands,Annual,Share of population consuming fruits daily,15 years or over,Male,Percentage of population,Survey,2021,30.9,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2012,3327,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2013,3305,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2014,3320,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2015,3333,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2016,3339,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2017,3337,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2018,3345,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2019,3346,Normal value
+Food supply and consumption,Finland,Annual,Calories supply,Total,Total,Kilocalories per person per day,Not applicable,2020,3363,Normal value

@@ -40,7 +40,7 @@
 
 
 
-    d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+    d3.csv("/datasets/WeightM.csv").then(function(data) {//Chat gpt also helped here
         var filteredData = data.filter(function(d) {
             return d.Year === year;
         });
