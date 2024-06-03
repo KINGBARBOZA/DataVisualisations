@@ -1,45 +1,42 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f8f9fa;
+    color: #333;
 }
 
-h1 {
-    text-align: center;
+h1, h2 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+#chart {
+    background-color: #fff;
+    border: 1px solid #ddd;
     padding: 20px;
-    background-color: #333;
-    color: #fff;
-    margin: 0;
-}
-
-h2 {
-    text-align: left;
-    margin: 0;
-}
-nav {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-}
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px;
-}
-
-nav a:hover {
-    background-color: #555;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 footer {
-    background-color: #333;
+    width: 100%;
+    background-color: #2c3e50;
     color: #fff;
     text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    padding: 20px 0;
+    position: relative;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    pointer-events: none;
+    z-index: 10; /* Ensure the tooltip is on top */
 }
