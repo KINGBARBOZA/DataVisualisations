@@ -11,54 +11,93 @@
     <!--webpage for Website-->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        #tooltip.hidden {
-            display: none;
-        }
+    /*slider css*/
+    .slider {
+        -webkit-appearance: none;
+        width: 40%;
+        height: 25px;
+        background: #d3d3d3;
+        outline: none;
+        opacity: 0.7;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+    }
+
+    .slider:hover {
+        opacity: 1;
+    }
+
+    .slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 25px;
+        height: 25px;
+        background: #04AA6D;
+        cursor: pointer;
+    }
+
+    .slider::-moz-range-thumb {
+        width: 25px;
+        height: 25px;
+        background: #04AA6D;
+        cursor: pointer;
+    }
+
+    /*Tooltip css*/
+    #tooltip {
+        position: absolute;
+        width: 180px;
+        height: auto;
+        padding: 10px;
+        background-color: rgb(239, 234, 234);
+        border-radius: 10px;
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        pointer-events: none;
+        border: 1px solid black;
+        opacity: 0; /* Initial opacity */
+        transition: opacity 1s ease; /* Transition properties */
+    }
+
+    #tooltip.hidden {
+        display: none;
+    }
+
+    #tooltip p {
+        margin: 0;
+        font-family: sans-serif;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    #heading {
+        font-weight: bold;
+    }
     </style>
 </head>
 
 <body>
     <h1>BarChart For Website</h1>
     <br/>
-    <button id="change-year-btn">Change Year</button><button id="change-year-btn2">Change Year2</button>
+    <h2 id="year">2012</h2>
+    <div id="Bar_chart_location"></div>
     <div class="slidecontainer">
         <input type="range" min="2012" max="2021" value="2012" class="slider" id="myRange">
     </div>
-    <h2 id="year">2012</h2>
-    <div id="tooltip" class="hidden">
-        <p><strong>Important Label Heading</strong></p>
-        <p><span id="value">100</span>%</p>
+    <div id="tooltip">
+        <p><span id="heading">Important Label Heading</span></p>
+        <p><span id="value">value of the country</span></p>
     </div>
+    <p>Here is where i will start talking about my graph and what it represents</p>
     <script>
-    /*
-    d3.csv("Test.csv").then(function(data) {
-        console.log(data);
-        barChart(data);
-    });
-    */
+
     year = "2012"
 
-
-
-    d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
+    d3.csv("WeightM.csv").then(function(data) {//this filters the data selected from the csv file by the year selected.
         var filteredData = data.filter(function(d) {
             return d.Year === year;
         });
-        console.log(filteredData);
-        barChart(filteredData);
-    });
-
-    document.getElementById('change-year-btn').addEventListener('click', function() {
-    const yearElement = document.getElementById('year');
-        yearElement.textContent = '2012';
-        year = "2012"
-        barChart(filteredData);
-    });
-    document.getElementById('change-year-btn2').addEventListener('click', function() {
-        const yearElement = document.getElementById('year');
-            yearElement.textContent = '2013';
-            year = "2013"
-            barChart(filteredData);
+        console.log(filteredData);//displays data to the consol so we can make sure it is correct
+        barChart(filteredData);//send in the filtered data to be used within the barchart function
     });
 
 
@@ -66,49 +105,63 @@
         var w = 600; // creates the borders of this task
         var h = 350;
 
-        var xScale = d3.scaleBand()
+        var xScale = d3.scaleBand()//this is used to scale all the x positions and width of the visulisation to create even spacig between bars of the graph
             .domain(d3.range(data.length))
-            .rangeRound([0, w]) // rounds the numbers
+            .rangeRound([0, w])
             .paddingInner(0.05);
 
         var yScale = d3.scaleLinear()
-            .domain([0, d3.max(data, function(d) { return +d.Found_Value; })])
-            .range([0, h]);
+            .domain([0, d3.max(data, function(d) { return +d.Found_Value; })])//this is used to scale all the y positions and height of the visulisation to create even spacig between bars of the graph
+            .range([h, 0]);
 
-        var svg = d3.select("body")
+        var svg = d3.select("#Bar_chart_location")
             .append("svg") // adds the svg tag to all the lines
-            .attr("width", w)
-            .attr("height", h);
+            .attr("width", w + 30)
+            .attr("height", h + 30)
+            .append("g")
+            .attr("transform", "translate(30, 0)"); // Move the chart to make room for the y-axis
 
         svg.selectAll("rect")
             .data(data) // binds the data to the dataset array elements
             .enter()
             .append("rect")
             .attr("x", function(d, i) {
-                return xScale(i); // Set x values for the graph
+                return xScale(i); // Sets x value positions of each bar within the graph
             })
             .attr("y", function(d) {
-                return h - yScale(+d.Found_Value) - 10; // height minus the data values will move the bars to the bottom instead of the top. -10 allows for the countrys to display underneth
+                return yScale(+d.Found_Value); // Sets y value positions of each bar within the graph
             })
-            .attr("width", xScale.bandwidth())
+            .attr("width", xScale.bandwidth()) //restricts the width of the svg elements
             .attr("height", function(d) {
-                return yScale(+d.Found_Value); // just to make them look a bit bigger
+                return h - yScale(+d.Found_Value); //uses the higest value of the visulisation for the height scale of the svg elements
             })
-            .attr("fill", "grey")
-            .attr("fill", function(d) {
+            .attr("fill", function(d) {//this sets the colour or each bar within the visulisation to a country
                 if (d.Country === "Canada") return "red";
                 else if (d.Country === "New Zealand") return "blue";
                 else if (d.Country === "United Kingdom") return "green";
                 else if (d.Country === "Japan") return "yellow";
                 else if (d.Country === "Korea") return "purple";
-                else return "grey"; // Default color if no match
-        })
+                else return "grey"; // Default color if no country can be found but will not be used in our visulisation
+            })
+
 
             .on("mouseover", function(event, d) {
-                d3.select(this).attr("fill", "orange");
-                var xPosition = parseFloat(d3.select(this).attr("x")) + xScale.bandwidth() / 2;
+                d3.select(this).attr("fill", "orange");//when hovering over a bar of the graph it will turn orange to represent which data is being represented by the tooltip
+                var xPosition = parseFloat(d3.select(this).attr("x")) + xScale.bandwidth() / 2;//obtains positions of each bar to display the tooltip data
                 var yPosition = parseFloat(d3.select(this).attr("y")) + 14;
 
+                d3.select("#tooltip")//used to move the tooltip around to the top of the bars within the graph
+                .style("left", (xPosition + 20) + "px")//i have manualy made it so the tooltip will pop up in the top left of the graphs
+                .style("top", (yPosition + 100) + "px")
+
+                d3.select("#tooltip #heading")//here changes the values within the visulisations.................................................
+                    .text("Country: " + d.Country);
+                d3.select("#tooltip #value")
+                    .text("Percentage of people who are obese: %" + d.Found_Value + ".");
+                //Show the tooltip
+                //d3.select("#tooltip").classed("hidden", false)
+                d3.select("#tooltip")
+                    .style("opacity", 1); //this will begin the transition
                 /*
                 svg.append("text")
                     .attr("id", "tooltip")
@@ -124,61 +177,50 @@
             })
 
             .on("mouseout", function() {
-                d3.select(this).attr("fill", "grey");
-                d3.select("#tooltip").remove();
+                //d3.select(this).attr("fill", "grey");
+                d3.select(this).attr("fill", function(d) {
+                    if (d.Country === "Canada") return "red";
+                    else if (d.Country === "New Zealand") return "blue";
+                    else if (d.Country === "United Kingdom") return "green";
+                    else if (d.Country === "Japan") return "yellow";
+                    else if (d.Country === "Korea") return "purple";
+                    else return "grey"; // Default color if no country can be found
+
             })
+            //d3.select("#tooltip").classed("hidden", true);
+            d3.select("#tooltip")
+            .style("opacity", 0); // Changing opacity will trigger the transition
+        })
+
+            /*
             .append("title")
             .text(function(d) {
-                return "This value is " + d.Found_Value;
-            });
-
-
-            svg.selectAll("text")//CHAT GPT HELPED WITH THIS
-            .data(data)
-            .enter()
-            .append("text")
-            .attr("x", function(d, i) {
-                return xScale(i) + xScale.bandwidth() / 2;
+                return "Country: " + d.Country + "\nPercentage of people who are obese: %" + d.Found_Value;
             })
-            .attr("y", function(d) {
-                return h - 2;//-2 allows all data to fit
-            })
-            .attr("text-anchor", "middle")
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "11px")
-            .attr("fill", "Black")
-            .text(function(d) {
-                return d.Country;
-            });
+            .style("color", "red");
+            */
 
+
+
+            //this section is used to create the axis
+            var x_axis = d3.axisBottom()
+            .scale(xScale)
+            .tickFormat(function(d, i) { return data[i].Country; });//chat gpt helped here
+
+            var y_axis = d3.axisLeft()
+                .scale(yScale)
+                .ticks(5);
+
+            svg.append("g")
+                .attr("transform", "translate(0," + h + ")")
+                .call(x_axis);
+
+            svg.append("g")
+                .call(y_axis);
 
     }
-            d3.select("#change-year-btn")//watches to see if button1 is clicked and if so adds data to the visulisation
-            .on("click", function() {
-                year = "2012"
-                d3.select("svg").remove();
-                d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
-                var filteredData = data.filter(function(d) {
-                    return d.Year === year;
-                });
-                console.log(filteredData);
-                barChart(filteredData);
-                });
-            });
 
 
-            d3.select("#change-year-btn2")//watches to see if button1 is clicked and if so adds data to the visulisation
-            .on("click", function() {
-                year = "2013"
-                d3.select("svg").remove();
-                d3.csv("WeightM.csv").then(function(data) {//Chat gpt also helped here
-                var filteredData = data.filter(function(d) {
-                    return d.Year === year;
-                });
-                console.log(filteredData);
-                barChart(filteredData);
-                });
-            });
 
             //this code is from chatgpt
             // Get the slider input element
@@ -203,11 +245,17 @@
                 });
                 console.log(filteredData);
                 barChart(filteredData);
+
                 });
             });
+
+
+
     //Chat GPT ALSO HELPED WITH the y scale alot
-    //https://www.w3schools.com/howto/howto_js_rangeslider.asp
+    //chat helped with axis
+    //chat helped with slider
+    //https://www.w3schools.com/howto/howto_js_rangeslider.asp styles from here
+    //https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip_transition  some transition ideas from here
     </script>
-    <footer>Joel Downie barchart task</footer>
 </body>
 </html>
