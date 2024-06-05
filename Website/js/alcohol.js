@@ -12,7 +12,7 @@ function init() {
     var height = h - margin.top - margin.bottom;
 
     // Load and process the data
-    d3.csv("/datasets/AlcoholConsumption.csv", function(d) {
+    d3.csv("AlcoholConsumption.csv", function(d) {
         return {
             year: d3.timeParse("%Y")(d.TIME_PERIOD),
             consumption: +d.OBS_VALUE,
