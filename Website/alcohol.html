@@ -11,54 +11,53 @@
     <title>Alcohol</title>
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">COS30045 Data Visualisations</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="alcohol.html">Alcohol</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="Bar.html">Bar</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="food.html">Food</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                </ul>
+    <div class="content">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">COS30045 Data Visualisations</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="alcohol.html">Alcohol</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Bar.html">Bar</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="food.html">Food</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="container mt-5">
+            <h1 class="text-center mb-4">Alcohol Consumption Over the Past Decade in New Zealand Compared to Other Countries</h1>
+
+            <h2 class="mb-3">How has alcohol consumption changed over the past decade in New Zealand compared to other countries?</h2>
+            <p class="mb-4">Have you ever wondered how much alcohol people in New Zealand drink compared to other countries?
+                Over the last ten years, a lot has changed. Some countries might be drinking more, while others are cutting back.
+                Let's take a look at this cool graph to see how alcohol consumption has changed from 2012 to 2022.
+                This will help us understand if Kiwis are drinking more or less compared to people in other parts of the world.
+                Let's dive in and check it out.
+            </p>
+
+            <div>
+                <label for="countryDropdown" class="form-control-sm">Select Country:</label>
+                <select id="countryDropdown" class="form-control-sm">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div id="chart" class="mb-5"></div>
         </div>
-    </nav>
-
-    <!-- Main Content -->
-    <div class="container mt-5">
-        <h1 class="text-center mb-4">Alcohol Consumption Over the Past Decade in New Zealand Compared to Other Countries</h1>
-
-        <h2 class="mb-3">How has alcohol consumption changed over the past decade in New Zealand compared to other countries?</h2>
-        <p class="mb-4">Have you ever wondered how much alcohol people in New Zealand drink compared to other countries?
-            Over the last ten years, a lot has changed. Some countries might be drinking more, while others are cutting back.
-            Let's take a look at this cool graph to see how alcohol consumption has changed from 2012 to 2022.
-            This will help us understand if Kiwis are drinking more or less compared to people in other parts of the world.
-            Let's dive in and check it out.
-        </p>
-
-        <div>
-            <label for="countryDropdown" class="form-control-sm">Select Country:</label>
-            <select id="countryDropdown" class="form-control-sm">
-                <option value="">All</option>
-            </select>
-        </div>
-        <div id="chart" class="mb-5"></div>
-       
-
-        
     </div>
 
     <!-- Footer -->
