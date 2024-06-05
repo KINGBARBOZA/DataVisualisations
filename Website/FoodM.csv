@@ -1,0 +1,271 @@
+Country,Measure,Unit of measure,Year,Found_Value
+Finland,Fruits supply,Kilogrammes per person per year,2012,65.4
+Finland,Fruits supply,Kilogrammes per person per year,2013,62.8
+Finland,Fruits supply,Kilogrammes per person per year,2014,68.1
+Finland,Fruits supply,Kilogrammes per person per year,2015,70.5
+Finland,Fruits supply,Kilogrammes per person per year,2016,71
+Finland,Fruits supply,Kilogrammes per person per year,2017,70.4
+Finland,Fruits supply,Kilogrammes per person per year,2018,71.2
+Finland,Fruits supply,Kilogrammes per person per year,2019,72.6
+Finland,Fruits supply,Kilogrammes per person per year,2020,71.9
+Netherlands,Fat supply,Grammes per person per day,2012,124.1
+Netherlands,Fat supply,Grammes per person per day,2013,125.4
+Netherlands,Fat supply,Grammes per person per day,2014,126.7
+Netherlands,Fat supply,Grammes per person per day,2015,128
+Netherlands,Fat supply,Grammes per person per day,2016,130.2
+Netherlands,Fat supply,Grammes per person per day,2017,126.6
+Netherlands,Fat supply,Grammes per person per day,2018,139.4
+Netherlands,Fat supply,Grammes per person per day,2019,134.3
+Netherlands,Fat supply,Grammes per person per day,2020,140.4
+Korea,Fruits supply,Kilogrammes per person per year,2012,57.1
+Korea,Fruits supply,Kilogrammes per person per year,2013,50.6
+Korea,Fruits supply,Kilogrammes per person per year,2014,59.4
+Korea,Fruits supply,Kilogrammes per person per year,2015,52.1
+Korea,Fruits supply,Kilogrammes per person per year,2016,53.3
+Korea,Fruits supply,Kilogrammes per person per year,2017,54.8
+Korea,Fruits supply,Kilogrammes per person per year,2018,52.4
+Korea,Fruits supply,Kilogrammes per person per year,2019,51.5
+Korea,Fruits supply,Kilogrammes per person per year,2020,47
+Korea,Sugar supply,Kilogrammes per person per year,2012,39.2
+Korea,Sugar supply,Kilogrammes per person per year,2013,39.5
+Korea,Sugar supply,Kilogrammes per person per year,2014,47.5
+Korea,Sugar supply,Kilogrammes per person per year,2015,48.9
+Korea,Sugar supply,Kilogrammes per person per year,2016,48.3
+Korea,Sugar supply,Kilogrammes per person per year,2017,48.7
+Korea,Sugar supply,Kilogrammes per person per year,2018,49.9
+Korea,Sugar supply,Kilogrammes per person per year,2019,50.5
+Korea,Sugar supply,Kilogrammes per person per year,2020,48.7
+Korea,Vegetables supply,Kilogrammes per person per year,2012,194
+Korea,Vegetables supply,Kilogrammes per person per year,2013,198.2
+Korea,Vegetables supply,Kilogrammes per person per year,2014,210.9
+Korea,Vegetables supply,Kilogrammes per person per year,2015,192.2
+Korea,Vegetables supply,Kilogrammes per person per year,2016,187.1
+Korea,Vegetables supply,Kilogrammes per person per year,2017,197.2
+Korea,Vegetables supply,Kilogrammes per person per year,2018,205.2
+Korea,Vegetables supply,Kilogrammes per person per year,2019,195.2
+Korea,Vegetables supply,Kilogrammes per person per year,2020,192.1
+Finland,Vegetables supply,Kilogrammes per person per year,2012,77.4
+Finland,Vegetables supply,Kilogrammes per person per year,2013,82.9
+Finland,Vegetables supply,Kilogrammes per person per year,2014,83.9
+Finland,Vegetables supply,Kilogrammes per person per year,2015,80.5
+Finland,Vegetables supply,Kilogrammes per person per year,2016,84
+Finland,Vegetables supply,Kilogrammes per person per year,2017,82.2
+Finland,Vegetables supply,Kilogrammes per person per year,2018,83.7
+Finland,Vegetables supply,Kilogrammes per person per year,2019,84.5
+Finland,Vegetables supply,Kilogrammes per person per year,2020,83.5
+Finland,Protein supply,Grammes per person per day,2012,116
+Finland,Protein supply,Grammes per person per day,2013,116.4
+Finland,Protein supply,Grammes per person per day,2014,118
+Finland,Protein supply,Grammes per person per day,2015,118.2
+Finland,Protein supply,Grammes per person per day,2016,117.6
+Finland,Protein supply,Grammes per person per day,2017,118.2
+Finland,Protein supply,Grammes per person per day,2018,118.5
+Finland,Protein supply,Grammes per person per day,2019,119.5
+Finland,Protein supply,Grammes per person per day,2020,117.9
+Netherlands,Vegetables supply,Kilogrammes per person per year,2012,53.8
+Netherlands,Vegetables supply,Kilogrammes per person per year,2013,58.5
+Netherlands,Vegetables supply,Kilogrammes per person per year,2014,57.1
+Netherlands,Vegetables supply,Kilogrammes per person per year,2015,63.5
+Netherlands,Vegetables supply,Kilogrammes per person per year,2016,66.3
+Netherlands,Vegetables supply,Kilogrammes per person per year,2017,64.2
+Netherlands,Vegetables supply,Kilogrammes per person per year,2018,66.6
+Netherlands,Vegetables supply,Kilogrammes per person per year,2019,87.4
+Netherlands,Vegetables supply,Kilogrammes per person per year,2020,79.1
+Italy,Calories supply,Kilocalories per person per day,2012,3575
+Italy,Calories supply,Kilocalories per person per day,2013,3579
+Italy,Calories supply,Kilocalories per person per day,2014,3487
+Italy,Calories supply,Kilocalories per person per day,2015,3483
+Italy,Calories supply,Kilocalories per person per day,2016,3472
+Italy,Calories supply,Kilocalories per person per day,2017,3477
+Italy,Calories supply,Kilocalories per person per day,2018,3463
+Italy,Calories supply,Kilocalories per person per day,2019,3520
+Italy,Calories supply,Kilocalories per person per day,2020,3563
+Netherlands,Protein supply,Grammes per person per day,2012,112.1
+Netherlands,Protein supply,Grammes per person per day,2013,111.9
+Netherlands,Protein supply,Grammes per person per day,2014,108.5
+Netherlands,Protein supply,Grammes per person per day,2015,107.6
+Netherlands,Protein supply,Grammes per person per day,2016,107.6
+Netherlands,Protein supply,Grammes per person per day,2017,102.4
+Netherlands,Protein supply,Grammes per person per day,2018,103.9
+Netherlands,Protein supply,Grammes per person per day,2019,107.3
+Netherlands,Protein supply,Grammes per person per day,2020,112.6
+Netherlands,Calories supply,Kilocalories per person per day,2012,3224
+Netherlands,Calories supply,Kilocalories per person per day,2013,3227
+Netherlands,Calories supply,Kilocalories per person per day,2014,3213
+Netherlands,Calories supply,Kilocalories per person per day,2015,3240
+Netherlands,Calories supply,Kilocalories per person per day,2016,3241
+Netherlands,Calories supply,Kilocalories per person per day,2017,3270
+Netherlands,Calories supply,Kilocalories per person per day,2018,3294
+Netherlands,Calories supply,Kilocalories per person per day,2019,3477
+Netherlands,Calories supply,Kilocalories per person per day,2020,3521
+Korea,Calories supply,Kilocalories per person per day,2012,3313
+Korea,Calories supply,Kilocalories per person per day,2013,3330
+Korea,Calories supply,Kilocalories per person per day,2014,3359
+Korea,Calories supply,Kilocalories per person per day,2015,3376
+Korea,Calories supply,Kilocalories per person per day,2016,3381
+Korea,Calories supply,Kilocalories per person per day,2017,3435
+Korea,Calories supply,Kilocalories per person per day,2018,3449
+Korea,Calories supply,Kilocalories per person per day,2019,3457
+Korea,Calories supply,Kilocalories per person per day,2020,3443
+Finland,Sugar supply,Kilogrammes per person per year,2012,39.8
+Finland,Sugar supply,Kilogrammes per person per year,2013,39.8
+Finland,Sugar supply,Kilogrammes per person per year,2014,40.2
+Finland,Sugar supply,Kilogrammes per person per year,2015,40.3
+Finland,Sugar supply,Kilogrammes per person per year,2016,40.3
+Finland,Sugar supply,Kilogrammes per person per year,2017,40.4
+Finland,Sugar supply,Kilogrammes per person per year,2018,41.5
+Finland,Sugar supply,Kilogrammes per person per year,2019,48.8
+Finland,Sugar supply,Kilogrammes per person per year,2020,49.6
+Finland,Calories supply,Kilocalories per person per day,2012,3327
+Finland,Calories supply,Kilocalories per person per day,2013,3305
+Finland,Calories supply,Kilocalories per person per day,2014,3320
+Finland,Calories supply,Kilocalories per person per day,2015,3333
+Finland,Calories supply,Kilocalories per person per day,2016,3339
+Finland,Calories supply,Kilocalories per person per day,2017,3337
+Finland,Calories supply,Kilocalories per person per day,2018,3345
+Finland,Calories supply,Kilocalories per person per day,2019,3346
+Finland,Calories supply,Kilocalories per person per day,2020,3363
+Italy,Fat supply,Grammes per person per day,2012,157.9
+Italy,Fat supply,Grammes per person per day,2013,154.8
+Italy,Fat supply,Grammes per person per day,2014,148.7
+Italy,Fat supply,Grammes per person per day,2015,146
+Italy,Fat supply,Grammes per person per day,2016,146.6
+Italy,Fat supply,Grammes per person per day,2017,146.9
+Italy,Fat supply,Grammes per person per day,2018,145.4
+Italy,Fat supply,Grammes per person per day,2019,149.9
+Italy,Fat supply,Grammes per person per day,2020,153.2
+New Zealand,Calories supply,Kilocalories per person per day,2012,3147
+New Zealand,Calories supply,Kilocalories per person per day,2013,3204
+New Zealand,Calories supply,Kilocalories per person per day,2014,3148
+New Zealand,Calories supply,Kilocalories per person per day,2015,3154
+New Zealand,Calories supply,Kilocalories per person per day,2016,3150
+New Zealand,Calories supply,Kilocalories per person per day,2017,3162
+New Zealand,Calories supply,Kilocalories per person per day,2018,3217
+New Zealand,Calories supply,Kilocalories per person per day,2019,3196
+New Zealand,Calories supply,Kilocalories per person per day,2020,3214
+Netherlands,Sugar supply,Kilogrammes per person per year,2012,45.4
+Netherlands,Sugar supply,Kilogrammes per person per year,2013,44.5
+Netherlands,Sugar supply,Kilogrammes per person per year,2014,43.8
+Netherlands,Sugar supply,Kilogrammes per person per year,2015,45.5
+Netherlands,Sugar supply,Kilogrammes per person per year,2016,44.6
+Netherlands,Sugar supply,Kilogrammes per person per year,2017,45.7
+Netherlands,Sugar supply,Kilogrammes per person per year,2018,37.6
+Netherlands,Sugar supply,Kilogrammes per person per year,2019,47.4
+Netherlands,Sugar supply,Kilogrammes per person per year,2020,47.3
+Korea,Protein supply,Grammes per person per day,2012,94.2
+Korea,Protein supply,Grammes per person per day,2013,95.2
+Korea,Protein supply,Grammes per person per day,2014,93.7
+Korea,Protein supply,Grammes per person per day,2015,93.6
+Korea,Protein supply,Grammes per person per day,2016,95.2
+Korea,Protein supply,Grammes per person per day,2017,97.6
+Korea,Protein supply,Grammes per person per day,2018,98.2
+Korea,Protein supply,Grammes per person per day,2019,97.9
+Korea,Protein supply,Grammes per person per day,2020,98.1
+New Zealand,Vegetables supply,Kilogrammes per person per year,2012,126.2
+New Zealand,Vegetables supply,Kilogrammes per person per year,2013,115.8
+New Zealand,Vegetables supply,Kilogrammes per person per year,2014,124.6
+New Zealand,Vegetables supply,Kilogrammes per person per year,2015,125.7
+New Zealand,Vegetables supply,Kilogrammes per person per year,2016,122.6
+New Zealand,Vegetables supply,Kilogrammes per person per year,2017,117.1
+New Zealand,Vegetables supply,Kilogrammes per person per year,2018,132.6
+New Zealand,Vegetables supply,Kilogrammes per person per year,2019,110.6
+New Zealand,Vegetables supply,Kilogrammes per person per year,2020,90.3
+Korea,Fat supply,Grammes per person per day,2012,103.7
+Korea,Fat supply,Grammes per person per day,2013,102.7
+Korea,Fat supply,Grammes per person per day,2014,109.6
+Korea,Fat supply,Grammes per person per day,2015,112.3
+Korea,Fat supply,Grammes per person per day,2016,113.3
+Korea,Fat supply,Grammes per person per day,2017,116.8
+Korea,Fat supply,Grammes per person per day,2018,119.8
+Korea,Fat supply,Grammes per person per day,2019,124.7
+Korea,Fat supply,Grammes per person per day,2020,126.5
+Italy,Sugar supply,Kilogrammes per person per year,2012,31.5
+Italy,Sugar supply,Kilogrammes per person per year,2013,32.1
+Italy,Sugar supply,Kilogrammes per person per year,2014,32.7
+Italy,Sugar supply,Kilogrammes per person per year,2015,32.5
+Italy,Sugar supply,Kilogrammes per person per year,2016,32.5
+Italy,Sugar supply,Kilogrammes per person per year,2017,32.4
+Italy,Sugar supply,Kilogrammes per person per year,2018,33.2
+Italy,Sugar supply,Kilogrammes per person per year,2019,33.4
+Italy,Sugar supply,Kilogrammes per person per year,2020,34.6
+Finland,Fat supply,Grammes per person per day,2012,141.3
+Finland,Fat supply,Grammes per person per day,2013,141.4
+Finland,Fat supply,Grammes per person per day,2014,142.1
+Finland,Fat supply,Grammes per person per day,2015,140.7
+Finland,Fat supply,Grammes per person per day,2016,140.8
+Finland,Fat supply,Grammes per person per day,2017,139.6
+Finland,Fat supply,Grammes per person per day,2018,140.7
+Finland,Fat supply,Grammes per person per day,2019,131.5
+Finland,Fat supply,Grammes per person per day,2020,139.7
+New Zealand,Fat supply,Grammes per person per day,2012,119.6
+New Zealand,Fat supply,Grammes per person per day,2013,124.6
+New Zealand,Fat supply,Grammes per person per day,2014,114.3
+New Zealand,Fat supply,Grammes per person per day,2015,113.5
+New Zealand,Fat supply,Grammes per person per day,2016,114
+New Zealand,Fat supply,Grammes per person per day,2017,113.9
+New Zealand,Fat supply,Grammes per person per day,2018,118.4
+New Zealand,Fat supply,Grammes per person per day,2019,117
+New Zealand,Fat supply,Grammes per person per day,2020,122.5
+Netherlands,Fruits supply,Kilogrammes per person per year,2012,92.6
+Netherlands,Fruits supply,Kilogrammes per person per year,2013,107.3
+Netherlands,Fruits supply,Kilogrammes per person per year,2014,106.6
+Netherlands,Fruits supply,Kilogrammes per person per year,2015,112.2
+Netherlands,Fruits supply,Kilogrammes per person per year,2016,110.2
+Netherlands,Fruits supply,Kilogrammes per person per year,2017,94
+Netherlands,Fruits supply,Kilogrammes per person per year,2018,100
+Netherlands,Fruits supply,Kilogrammes per person per year,2019,100.7
+Netherlands,Fruits supply,Kilogrammes per person per year,2020,107.6
+New Zealand,Fruits supply,Kilogrammes per person per year,2012,61.1
+New Zealand,Fruits supply,Kilogrammes per person per year,2013,70.4
+New Zealand,Fruits supply,Kilogrammes per person per year,2014,66.8
+New Zealand,Fruits supply,Kilogrammes per person per year,2015,65.7
+New Zealand,Fruits supply,Kilogrammes per person per year,2016,73.1
+New Zealand,Fruits supply,Kilogrammes per person per year,2017,67
+New Zealand,Fruits supply,Kilogrammes per person per year,2018,63.1
+New Zealand,Fruits supply,Kilogrammes per person per year,2019,61.9
+New Zealand,Fruits supply,Kilogrammes per person per year,2020,54.4
+New Zealand,Protein supply,Grammes per person per day,2012,90.8
+New Zealand,Protein supply,Grammes per person per day,2013,93.3
+New Zealand,Protein supply,Grammes per person per day,2014,91.7
+New Zealand,Protein supply,Grammes per person per day,2015,91.5
+New Zealand,Protein supply,Grammes per person per day,2016,96
+New Zealand,Protein supply,Grammes per person per day,2017,92.2
+New Zealand,Protein supply,Grammes per person per day,2018,98.3
+New Zealand,Protein supply,Grammes per person per day,2019,97.4
+New Zealand,Protein supply,Grammes per person per day,2020,93.4
+Italy,Protein supply,Grammes per person per day,2012,109.1
+Italy,Protein supply,Grammes per person per day,2013,108.6
+Italy,Protein supply,Grammes per person per day,2014,105.9
+Italy,Protein supply,Grammes per person per day,2015,104.6
+Italy,Protein supply,Grammes per person per day,2016,103.6
+Italy,Protein supply,Grammes per person per day,2017,104.6
+Italy,Protein supply,Grammes per person per day,2018,105.2
+Italy,Protein supply,Grammes per person per day,2019,106.3
+Italy,Protein supply,Grammes per person per day,2020,105.7
+Italy,Vegetables supply,Kilogrammes per person per year,2012,132.9
+Italy,Vegetables supply,Kilogrammes per person per year,2013,127.4
+Italy,Vegetables supply,Kilogrammes per person per year,2014,128
+Italy,Vegetables supply,Kilogrammes per person per year,2015,133.9
+Italy,Vegetables supply,Kilogrammes per person per year,2016,132.1
+Italy,Vegetables supply,Kilogrammes per person per year,2017,128.7
+Italy,Vegetables supply,Kilogrammes per person per year,2018,122.9
+Italy,Vegetables supply,Kilogrammes per person per year,2019,98.4
+Italy,Vegetables supply,Kilogrammes per person per year,2020,94.6
+Italy,Fruits supply,Kilogrammes per person per year,2012,128.7
+Italy,Fruits supply,Kilogrammes per person per year,2013,138.8
+Italy,Fruits supply,Kilogrammes per person per year,2014,119.6
+Italy,Fruits supply,Kilogrammes per person per year,2015,125.3
+Italy,Fruits supply,Kilogrammes per person per year,2016,121.1
+Italy,Fruits supply,Kilogrammes per person per year,2017,121.4
+Italy,Fruits supply,Kilogrammes per person per year,2018,121.5
+Italy,Fruits supply,Kilogrammes per person per year,2019,117.5
+Italy,Fruits supply,Kilogrammes per person per year,2020,127.9
+New Zealand,Sugar supply,Kilogrammes per person per year,2012,56.7
+New Zealand,Sugar supply,Kilogrammes per person per year,2013,56.7
+New Zealand,Sugar supply,Kilogrammes per person per year,2014,57.9
+New Zealand,Sugar supply,Kilogrammes per person per year,2015,57.9
+New Zealand,Sugar supply,Kilogrammes per person per year,2016,53.5
+New Zealand,Sugar supply,Kilogrammes per person per year,2017,55.6
+New Zealand,Sugar supply,Kilogrammes per person per year,2018,55.8
+New Zealand,Sugar supply,Kilogrammes per person per year,2019,61.1
+New Zealand,Sugar supply,Kilogrammes per person per year,2020,62.1

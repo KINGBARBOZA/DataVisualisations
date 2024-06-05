@@ -7,15 +7,15 @@
     <meta name="keywords" content="HTML, CSS"/>
     <meta name="author" content="Joel Downie"/>
 
-    <title>BarChart</title>
+    <title>PieChart</title>
     <!--webpage for Website-->
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="js/weight.js" defer></script>
+    <script src="js/food.js" defer></script>
     <style>
     /*slider css*/
     .slider {
         -webkit-appearance: none;
-        width: 40%;
+        width: 35%;
         height: 25px;
         background: #d3d3d3;
         outline: none;
@@ -77,12 +77,22 @@
 </head>
 
 <body>
-    <h1>BarChart For Website</h1>
+    <h1>PieChart For Website</h1>
     <br/>
     <h2 id="year">2012</h2>
-    <div id="Bar_chart_location"></div>
+    <select name="options" id="options">
+        <option value="Fat supply">Fat supply</option>
+        <option value="Fruits supply">Fruits supply</option>
+        <option value="Sugar supply">Sugar supply</option>
+        <option value="Vegetables supply">Vegetables supply</option>
+        <option value="Calories supply">Calories supply</option>
+        <option value="Protein supply">Protein supply</option>
+    </select>
+    <br/>
+    <br/>
+    <div id="Pie_chart_location"></div>
     <div class="slidecontainer">
-        <input type="range" min="2012" max="2021" value="2012" class="slider" id="myRange">
+        <input type="range" min="2012" max="2020" value="2012" class="slider" id="myRange">
     </div>
     <div id="tooltip">
         <p><span id="heading">Important Label Heading</span></p>
