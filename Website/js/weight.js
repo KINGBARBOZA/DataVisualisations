@@ -57,12 +57,12 @@ function barChart(data) {
 
         .on("mouseover", function(event, d) {
             d3.select(this).attr("fill", "orange");//when hovering over a bar of the graph it will turn orange to represent which data is being represented by the tooltip
-            var xPosition = parseFloat(d3.select(this).attr("x")) + xScale.bandwidth() / 2;//obtains positions of each bar to display the tooltip data
-            var yPosition = parseFloat(d3.select(this).attr("y")) + 14;
+            var xPosition = event.pageX;
+            var yPosition = event.pageY;
 
             d3.select("#tooltip")//used to move the tooltip around to the top of the bars within the graph
-            .style("left", (xPosition + 20) + "px")//i have manualy made it so the tooltip will pop up in the top left of the graphs
-            .style("top", (yPosition + 100) + "px")
+            .style("left", (xPosition + 20) + "px")//i have manualy made it so the tooltip will pop up in the top right of the mouse
+            .style("top", (yPosition - 70) + "px")
 
             d3.select("#tooltip #heading")//here changes the values within the tooltip to the country as the heading and found values for the percentage of people who are obese
                 .text("Country: " + d.Country);
