@@ -13,6 +13,10 @@
     <script src="js/weight.js" defer></script>
 
     <style>
+         h1, h2, h3 {
+        color: #2c3e50;
+        }
+
         html, body {
             height: 100%;
             margin: 0;
@@ -22,6 +26,7 @@
         body {
             display: flex;
             flex-direction: column;
+            background-color: #f8f9fa;
         }
 
         .content {
@@ -120,31 +125,33 @@
             </div>
         </nav>
         <!-- Main Content -->
-        <h1 class="text-center mb-4">Percentage of population who are obese within New Zealand compaired to other first world countrys</h1>
-        <br/>
-        <h3>How does New Zealand's general populations weight compair to other first world countries?</h3>
-        <h4 class="mb-3" style="display: inline;">Year of recorded data: </h4><h4 class="mb-3" id="year" style="display: inline;">2012</h4>
-        <div id="Bar_chart_location"></div>
-        <div class="slidecontainer">
-            <input type="range" min="2012" max="2021" value="2012" class="slider" id="myRange">
+        <div class="container mt-5">
+            <h1 class="text-center mb-4">Percentage of population who are obese within New Zealand compaired to other first world countrys</h1>
+            <br/>
+            <h2 class="mb-3">How does New Zealand's general populations weight compare to other first world countries?</h2>
+            <h3 class="mb-3" style="display: inline;">Year of recorded data: </h3><h3 class="mb-3" id="year" style="display: inline;">2012</h3>
+            <div id="Bar_chart_location" class="mb-5"></div>
+            <div class="slidecontainer">
+                <input type="range" min="2012" max="2021" value="2012" class="slider" id="myRange">
+            </div>
+            <div id="tooltip">
+                <p><span id="heading">Important Label Heading</span></p>
+                <p><span id="value">value of the country</span></p>
+            </div>
+            <p class="mb-4">
+                New Zealand's average obesity weight has been an increasing concern over the past few years as more and more of their population
+                begin to fall into the obese bracket of general health and weight. This has very negative health implications on the general population
+                resulting in higher chances of heart diseases as well as diabetes within people affected by obesity. While this is seen as a growing trend within many first world countries which can be
+                viewed within the graph above new Zealand has stood out among many nations as one of the worst cases of obesity within it's
+                people. For the past 9 years New Zealand has remained on top of many counties with the highest recorded obesity rates.
+                The main contributor to this problem is the poor eating habits found within the country and a lack of education behind the risks of obesity resulting in a far above acceptable levels of obesity within New Zealand.
+                to combat this Zealanders should consider eating more healthy food choices which are more commonly done within Asian countries
+                resulting in them having lower obesity rates as well as implementing more learning for kids and adults teaching the risks
+                associated with a poor diet and obesity which would result in reducing obesity and the toll on health services within New Zealand. While this
+                issue isn't unique to New Zealand and many more countries should do the same New Zealand is in a urgent needs to act now as obesity related deaths
+                will only increase unless more measures and awareness is put in place to curve the increasing rates of obesity within their people.
+            </p>
         </div>
-        <div id="tooltip">
-            <p><span id="heading">Important Label Heading</span></p>
-            <p><span id="value">value of the country</span></p>
-        </div>
-        <p>
-            New Zealand's average obesity weight has been an increasing concern over the past few years as more and more of their population
-            begin to fall into the obese bracket of general health and weight. This has very negative health implications on the general population
-            resulting in higher chances of heart diseases as well as diabetes within people affected by obesity. While this is seen as a growing trend within many first world countries which can be
-            viewed within the graph above new Zealand has stood out among many nations as one of the worst cases of obesity within it's
-            people. For the past 9 years New Zealand has remained on top of many counties with the highest recorded obesity rates.
-            The main contributor to this problem is the poor eating habits found within the country and a lack of education behind the risks of obesity resulting in a far above acceptable levels of obesity within New Zealand.
-            to combat this Zealanders should consider eating more healthy food choices which are more commonly done within Asian countries
-            resulting in them having lower obesity rates as well as implementing more learning for kids and adults teaching the risks
-            associated with a poor diet and obesity which would result in reducing obesity and the toll on health services within New Zealand. While this
-            issue isn't unique to New Zealand and many more countries should do the same New Zealand is in a urgent needs to act now as obesity related deaths
-            will only increase unless more measures and awareness is put in place to curve the increasing rates of obesity within their people.
-        </p>
     </div>
 
     <footer class="text-center bg-dark text-white">
